@@ -92,7 +92,7 @@ Access the full Kanban board with user stories and sprint progress:
 
 ## ✅ Conclusion
 
-This project demonstrates my ability to apply Agile methodologies in a realistic development scenario, effectively managing multiple roles and delivering value through iterative planning and execution. The use of GitHub Projects, structured backlog, and sprint simulation highlights my readiness for Agile environments in professional settings.
+This project demonstrates ability to apply Agile methodologies in a realistic development scenario, effectively managing multiple roles and delivering value through iterative planning and execution. The use of GitHub Projects, structured backlog, and sprint simulation highlights my readiness for Agile environments in professional settings.
 
 ---
 
