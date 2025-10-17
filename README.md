@@ -96,7 +96,7 @@ To support quality assurance and Agile practices, this repository includes the f
 
 - [`TEST_PLAN.md`](./TEST_PLAN.md): Full test plan outlining scope, objectives, risks, stakeholders, strategy, and schedule.
 - [`TEST_CASES.md`](./TEST_CASES.md): Structured test cases linked to user stories, with steps, expected results, and priorities.
-- [`TEST_COVERAGE.md`](./TEST_COVERAGE.md): Coverage matrix showing which stories are tested at each level and their current status.
+
 
 ---
 
