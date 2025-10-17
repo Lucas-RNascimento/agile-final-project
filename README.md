@@ -90,9 +90,16 @@ Access the full Kanban board with user stories and sprint progress:
 
 ---
 
-## ✅ Conclusion
+## 📚 Documentation Index
 
-This project demonstrates ability to apply Agile methodologies in a realistic development scenario, effectively managing multiple roles and delivering value through iterative planning and execution. The use of GitHub Projects, structured backlog, and sprint simulation highlights my readiness for Agile environments in professional settings.
+To support quality assurance and Agile practices, this repository includes the following test documentation:
+
+- [`TEST_PLAN.md`](./TEST_PLAN.md): Full test plan outlining scope, objectives, risks, stakeholders, strategy, and schedule.
+- [`TEST_CASES.md`](./TEST_CASES.md): Structured test cases linked to user stories, with steps, expected results, and priorities.
+- [`TEST_COVERAGE.md`](./TEST_COVERAGE.md): Coverage matrix showing which stories are tested at each level and their current status.
+
+---
+
 
 ---
 
